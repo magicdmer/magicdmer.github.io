@@ -131,3 +131,9 @@ jsonContent:
     excerpt: false
     categories: false
     tags: true
+
+friends:
+  我的图书馆: http://bookshelf.360doc.com/
+  我的博客: http://www.magicdmer.site/
+
+aboutme: 普通的程序猿一枚... 
